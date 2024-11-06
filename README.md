@@ -2,9 +2,7 @@
 
 ## Hi there 👋 I am Mikael and welcome to my github page! 😄
 
-**Junior Developer | Frontend- och Backend-enthusiast | Passionate about technology and eager to learn**
-
-#
+**Junior Developer | Frontend and still learning Backend | Passionate about technology and eager to learn**
 
 I am a recent graduate in frontend development with a passion for creating user-friendly and responsive web solutions. Through my studies and projects, I have gained a solid foundation in modern frontend technologies like JavaScript, React, and TypeScript. At the same time, I’m eager to develop my skills in backend development and look forward to building full-stack expertise.
 
