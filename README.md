@@ -26,8 +26,6 @@ I am now looking for a junior developer role where I can continue growing in bot
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-  <img src="https://avatars.githubusercontent.com/u/16942975?s=200&v=4" width="40" height="40" alt="Ollama" />
-  <img src="https://huggingface.co/datasets/deepseek-ai/deepseek/assets/0/logo.png" width="40" height="40" alt="DeepSeek R1" />
 </p>
 
 
